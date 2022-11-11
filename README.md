@@ -1,11 +1,11 @@
 Created by: Jonathan Erhard, Konstantin Winkel
 
 Files provided by the university: 
-	in catkin_ws:						build, Beispielpfade, devel 
-	in catkin_ws/src:					lms100, openslam_gmapping, slam_gmapping, volksbot
-	in catkin_ws/localization/include:	gio_path, include
-	in catkin_ws/giovanni:				gio_path.cpp
-	in catkin_ws/giovanni/src:			gio_path.cpp
+	- in catkin_ws:				build, Beispielpfade, devel 
+	- in catkin_ws/src:			lms100, openslam_gmapping, slam_gmapping, volksbot
+	- in catkin_ws/localization/include:	gio_path, include
+	- in catkin_ws/giovanni:		gio_path.cpp
+	- in catkin_ws/giovanni/src:		gio_path.cpp
 
 Selfmade Files: everything else
 
