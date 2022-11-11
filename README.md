@@ -1,6 +1,6 @@
 Created by: Jonathan Erhard, Konstantin Winkel
 
-Provided Files: 
+Files provided by the university: 
 	in catkin_ws:						build, Beispielpfade, devel 
 	in catkin_ws/src:					lms100, openslam_gmapping, slam_gmapping, volksbot
 	in catkin_ws/localization/include:	gio_path, include
