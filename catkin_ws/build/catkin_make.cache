@@ -1,2 +1,0 @@
-giovanni:lms100:localization:openslam_gmapping:slam_gmapping/gmapping:slam_gmapping/slam_gmapping:volksbot
--DCATKIN_DEVEL_PREFIX=/home/fyreman/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/fyreman/catkin_ws/install -G Unix Makefiles

@@ -1,8 +1,0 @@
-prefix=/home/fyreman/catkin_ws/devel
-
-Name: Giovanni
-Description: Description of Giovanni
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
